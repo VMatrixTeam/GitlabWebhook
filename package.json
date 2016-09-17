@@ -1,0 +1,24 @@
+{
+  "name": "gitlab-webhook",
+  "version": "1.0.0",
+  "description": "express middleware for gitlab webhook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VMatrixTeam/GitlabWebhook.git"
+  },
+  "keywords": [
+    "gitlab",
+    "webhook",
+    "middleware"
+  ],
+  "author": "JiarongWu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VMatrixTeam/GitlabWebhook/issues"
+  },
+  "homepage": "https://github.com/VMatrixTeam/GitlabWebhook#readme"
+}
